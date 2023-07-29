@@ -4,13 +4,13 @@
         "name":"Dark Theme",
         "author": {
             "name": "Boopulu",
-            "uid": ""
+            "uid": "llx3najmcbvehnarcqyzd2m8e3lt5ydb"
         },
-        "version":"1.0.0",
+        "theme_version":"1.0.0",
         "template_version":"1.0.0",
         "template_platform":"react-native",
         "description":"The default dark theme for Boopulu.",
-        "prview_card": {
+        "preview_card": {
             "icon":{
                 "color": "#242424"
             },
