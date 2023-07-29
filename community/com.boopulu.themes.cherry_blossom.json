@@ -33,7 +33,7 @@
     },
     "template_platform": "react-native",
     "template_version": "1.0.0",
-    "theme_version": "1.0.2"
+    "theme_version": "1.0.3"
   },
   "theme": {
     "BACKGROUND_COLOR": "#FFB7C5",
