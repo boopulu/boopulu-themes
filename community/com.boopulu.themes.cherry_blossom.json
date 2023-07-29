@@ -1,0 +1,83 @@
+{
+  "info": {
+    "author": {
+      "name": "Boopulu",
+      "uid": "llx3najmcbvehnarcqyzd2m8e3lt5ydb"
+    },
+    "description": "A cute cherry blossom theme!",
+    "name": "Cherry Blossom Theme",
+    "prview_card": {
+      "by": {
+        "color": "#242424"
+      },
+      "card": {
+        "background_color": "#FFB7C5",
+        "border_color": "#FFFFFF"
+      },
+      "credits": {
+        "color": "#242424"
+      },
+      "description": {
+        "color": "#242424"
+      },
+      "icon": {
+        "color": "#FFB7C5"
+      },
+      "title": {
+        "color": "#242424"
+      }
+    },
+    "template_platform": "react-native",
+    "template_version": "1.0.0",
+    "theme_version": "1.0.0"
+  },
+  "theme": {
+    "BACKGROUND_COLOR": "#FFB7C5",
+    "BADGE_NOT_FOUND_COLOR": "#990000",
+    "CHAT_DEFAULT_BACKGROUND_COLOR": "#bababa",
+    "CHAT_DEFAULT_BACKGROUND_TEXT_COLOR": "#000000",
+    "CHAT_WIDGET_ACTIVE_BUTTON_COLOR": "#000000",
+    "CHAT_WIDGET_BACKGROUND_COLOR": "#857f7a",
+    "CHAT_WIDGET_INACTIVE_BUTTON_COLOR": "#FFFFFF",
+    "FRIEND_COMPONENT_DEFAULT_BACKGROUND_COLOR": "#FFFFFF",
+    "FRIEND_COMPONENT_TEXT_COLOR": "#FFFFFF",
+    "HEADER_BACKGROUND_COLOR": "#FFB7C5",
+    "HEADER_BUTTON_COLOR": "#000000",
+    "HEADER_TITLE_COLOR": "#000000",
+    "LOGIN_BUTTON_BACKGROUND_COLOR": "#FFFFFF",
+    "LOGIN_BUTTON_TEXT_COLOR": "#000000",
+    "LOGIN_INPUT_BACKGROUND_COLOR": "transparent",
+    "LOGIN_INPUT_BORDER_COLOR": "#808080",
+    "LOGIN_INPUT_PLACEHOLDER_COLOR": "#000000",
+    "LOGIN_INPUT_TEXT_COLOR": "#000000",
+    "MAIN_SCREEN_BUTTON_BACKGROUND_COLOR": "#FFFFFF",
+    "MAIN_SCREEN_BUTTON_TEXT_COLOR": "#000000",
+    "PROFILE_BOOP_SCORE_BACKGROUND_COLOR": "#FFFFFF",
+    "PROFILE_BOOP_SCORE_TEXT_COLOR": "#FFB7C5",
+    "REQUEST_ACTIVE_BUTTON_BACKGROUND_COLOR": "#818181",
+    "REQUEST_ACTIVE_BUTTON_TEXT_COLOR": "#FFFFFF",
+    "REQUEST_BACKGROUND_COLOR": "#818181",
+    "REQUEST_CONTAINER_BACKGROUND_COLOR": "#A5A5A5",
+    "REQUEST_INACTIVE_BUTTON_BACKGROUND_COLOR": "#969696",
+    "REQUEST_INACTIVE_BUTTON_TEXT_COLOR": "#FFFFFF",
+    "SEARCH_BUTTON_COLOR": "#0d77bc",
+    "SEARCH_BUTTON_TEXT_COLOR": "#FFFFFF",
+    "SEARCH_INPUT_BACKGROUND_COLOR": "transparent",
+    "SEARCH_INPUT_BORDER_COLOR": "#808080",
+    "SEARCH_INPUT_TEXT_COLOR": "#000000",
+    "SETTINGS_BUTTON_BACKGROUND_COLOR": "#FFFFFF",
+    "SETTINGS_BUTTON_TEXT_COLOR": "#000000",
+    "SETTINGS_SAVE_BUTTON_BACKGROUND_COLOR": "#FFFFFF",
+    "SETTINGS_SAVE_BUTTON_TEXT_COLOR": "#000000",
+    "SETTINGS_THEME_SELECTION_ACTIVE_BORDER_COLOR": "#47d147",
+    "SETTINGS_THEME_SELECTION_INACTIVE_BORDER_COLOR": "#FFFFFF",
+    "TAB_BAR_ACTIVE_TINT_COLOR": "#9a6e97",
+    "TAB_BAR_BACKGROUND_COLOR": "#FFB7C5",
+    "TAB_BAR_BADGE_BACKGROUND_COLOR": "#9b93a6",
+    "TAB_BAR_BADGE_TEXT_COLOR": "#000000",
+    "TAB_BAR_BORDER_COLOR": "#818181",
+    "TAB_BAR_INACTIVE_TINT_COLOR": "#000000",
+    "TITLE_TEXT_COLOR": "#000000"
+  },
+  "unique_name": "com.boopulu.themes.cherry_blossom"
+}
