@@ -33,10 +33,10 @@
     },
     "template_platform": "react-native",
     "template_version": "1.0.0",
-    "theme_version": "1.0.5"
+    "theme_version": "1.0.6"
   },
   "theme": {
-    "BACKGROUND_COLOR": "#990000",
+    "BACKGROUND_COLOR": "#FFB7C5",
     "BADGE_NOT_FOUND_COLOR": "#990000",
     "CHAT_DEFAULT_BACKGROUND_COLOR": "#bababa",
     "CHAT_DEFAULT_BACKGROUND_TEXT_COLOR": "#000000",
